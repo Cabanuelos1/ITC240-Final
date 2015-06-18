@@ -1,0 +1,132 @@
+
+<style type="text/css">
+
+*  {
+font-family: arial, verdana, sans-serif;
+padding:0px;
+margin:0px;
+}
+
+#wrapper {
+width: 1200px;
+margin: 0px auto;
+padding: 0px 0px; 
+background: white;
+max-width: 1200px;
+}
+
+#validate {
+width: 1200px;
+padding: 15px 0px;
+}
+
+img.validate {
+margin: 0px auto;
+display: block;
+}
+
+#logo {
+float: left;
+width: 15%;
+height: 10em;
+padding-left: 10px;
+padding-top: 10px;
+}
+
+body {
+background-color: white;
+font-size: 100%;
+margin: 0px 0px;
+padding: 0px 0px;
+max-width: 100%;
+}
+
+header {
+height: 10em;
+background: white;
+font-size: 100%;
+padding: 0px auto;
+margin: 0px auto;
+text-align: center;
+line-height: 200px;
+}
+
+#header-title {
+font-size:700%;
+display:inline;
+color:black;
+width: 85%;
+padding-top: 20px;
+}
+
+nav {
+height: 6em;
+background: black;
+font-family: arial, verdana, sans-serif;
+font-size: 25px;
+line-height: 1em;
+width: 100%;
+text-align: center;
+}
+
+#page-title {
+width: 100%;
+text-align: center;
+font-size: 3em;
+height: 1.1em;
+background: grey;
+}
+
+#pic {
+background: white;
+width: 400px;
+padding: 20px 30px;
+margin: 0px 0px;
+float: left;
+}
+
+#text {
+background: white;
+width:600px;
+padding:60px 30px;
+margin:0px 40px;
+float: right;
+}
+
+footer {
+height:2em;
+background:black;
+clear:both;
+text-align: center;
+font-family: arial, verdana, sans-serif;
+font-size: 15px;
+padding: 0px auto;
+margin: 0px auto;
+line-height: 1.9em;
+}
+
+li.navi {
+padding: 0px 10px 0px 10px;
+color:white;
+display: inline;
+}
+
+
+li.copyright {
+display: inline;
+padding: 0px 40px 0px 40px;
+color: white;
+}
+
+p {
+padding: 0px 10px;
+line-height: 1.5em;
+font-size: 1.3em;
+}
+
+h3 {
+font-size:40px;
+text-align: center;
+}
+
+</style>
