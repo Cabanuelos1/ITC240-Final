@@ -14,7 +14,7 @@ define('DB_NAME','carlosbanuelositc240');
 
 define('DB_USER','carban11');
 
-define('DB_PASSWORD','Live1993');
+define('DB_PASSWORD','');
 
 define('DB_HOST','mysql.carlosbanuelositc240.com');
 
